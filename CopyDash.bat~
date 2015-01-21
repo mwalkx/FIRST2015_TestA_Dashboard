@@ -1,0 +1,5 @@
+copy Dashboard.aliases 'c:\program files (x86)\FRC Dashboard\'
+copy Dashbaord.exe 'c:\program files (x86)\FRC Dashboard\'
+copy Dashboard.ini 'c:\program files (x86)\FRC Dashboard\'
+echo Done
+pull
